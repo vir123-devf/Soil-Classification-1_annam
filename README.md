@@ -10,6 +10,17 @@ This repository contains the solution for the **Soil Image Classification Challe
 * **Metric**: 📊 *Minimum F1-score across all four classes* (maximize the lowest F1)
 
 ---
+## 👥 Team Details
+
+**Team Name:** VIR
+
+**Team Members:**(Solo)
+- Virendra badgotya *(Team Lead)*
+
+
+**Leaderboard Rank:** 52 (Part 1)  
+**Kaggle Score:** 1.000 🎯
+
 
 ## 📂 Dataset Structure
 
@@ -47,8 +58,7 @@ soil_classification-2025/
 | 5     | 1.77       | 0.99         | \[0.99, 1.00, 1.00, 0.99] |
 | 10    | 0.98       | 0.99         | \[0.99, 1.00, 1.00, 0.99] |
 
-✅ Achieved **high and balanced F1 scores** across all classes.
-
+Achieved **high and balanced F1 scores** across all classes.
 ---
 
 ## 🔄 Training Workflow
