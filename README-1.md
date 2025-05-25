@@ -120,7 +120,8 @@ img_def.jpg,Clay soil
 ## 🧑‍💻 Author
 
 **Virendra Badgotya**
-AI/ML Enthusiast | B.Tech @ SVNIT
+* AI/ML Enthusiast | B.Tech @ SVNIT
+
 🔗 [LinkedIn](https://www.linkedin.com/in/virendra-badgotya/) | [GitHub](https://github.com/vir123-devf)
 
 ---
