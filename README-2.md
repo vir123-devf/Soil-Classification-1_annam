@@ -124,5 +124,5 @@ pip install torch torchvision scikit-learn pandas tqdm pillow
   
   🔗 [LinkedIn](https://www.linkedin.com/in/virendra-badgotya/) | [GitHub](https://github.com/vir123-devf)
 
----
+
 
