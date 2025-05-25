@@ -6,6 +6,18 @@ This repository contains my solution to the **Soil Image Classification Challeng
 > ✅ **Approach Used**: Feature extraction using **ResNet-18** + **One-Class SVM**
 
 ---
+## 👥 Team Details
+
+**Team Name:** VIR
+
+**Team Members:**(Solo)
+- Virendra badgotya *(Team Lead)*
+
+
+**Leaderboard Rank:** 35 (Part 2)  
+**Kaggle Score:** 0.9222🎯
+
+---
 
 ## 📂 Dataset Structure
 
@@ -65,7 +77,7 @@ soil_competition-2025/
   * `1` → Soil
   * `0` → Non-Soil
 * Final score balances precision and recall
-
+F1 score = **0.9222**
 ---
 
 ## 📦 Submission Format
@@ -93,14 +105,6 @@ Install via:
 ```bash
 pip install torch torchvision scikit-learn pandas tqdm pillow
 ```
-
----
-
-## 🧠 Future Work
-
-* Explore fine-tuning ResNet18 instead of using it as a frozen feature extractor
-* Try Autoencoders or Isolation Forest for novelty detection
-* Improve robustness with image augmentation techniques
 
 ---
 
