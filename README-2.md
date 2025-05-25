@@ -110,6 +110,13 @@ pip install torch torchvision scikit-learn pandas tqdm pillow
 
 ---
 
+## 🤝 Acknowledgements
+
+* Hosted by: [IIT Ropar](https://www.iitrpr.ac.in)
+* Organised by: [Annam.ai](https://annam.ai)
+* Dataset: Provided by the Soil Image Classification Challenge team
+  
+---
 ## 🧑‍💻 Author
 
 **Virendra Badgotya**
