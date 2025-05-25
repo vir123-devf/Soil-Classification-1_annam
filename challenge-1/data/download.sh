@@ -1,12 +1,6 @@
 #!/bin/bash
 
-# Dataset or competition or notebook slug
-# Examples:
-# dataset: 'annam-ai/soilclassification'
-# competition: 'annam-ai/soilclassification'
-# notebook: 'username/notebook-name'
-
-# === Example: Download a dataset ===
+# Dataset or competition slug
 KAGGLE_DATASET="annam-ai/soilclassification"
 TARGET_DIR="./data"
 
