@@ -82,6 +82,8 @@ soil_competition-2025/
 
 ## 📦 Submission Format
 
+A `submission.csv` file with the following structure: 
+
 ```csv
 image_id,label
 abc123.jpg,1
