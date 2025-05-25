@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Dataset or competition slug
-KAGGLE_DATASET="annam-ai/soilclassificationpart2"
+KAGGLE_DATASET="annam-ai/soil-classification-part-2"
 TARGET_DIR="./data"
 
 echo "Downloading dataset: $KAGGLE_DATASET"
