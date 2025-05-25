@@ -58,6 +58,8 @@ soil_competition-2025/
 * Use RBF kernel with `nu=0.1` to model the decision boundary around the “soil” class
 * Predict whether test images belong to the soil class (`1`) or not (`0`)
 
+<img src="image.png" alt="Diagram" width="500"/>
+
 ---
 
 ## 🚀 How to Run
