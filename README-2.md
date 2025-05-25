@@ -77,7 +77,7 @@ soil_competition-2025/
   * `1` → Soil
   * `0` → Non-Soil
 * Final score balances precision and recall
-F1 score = **0.9222**
+* F1 score = **0.9222**
 ---
 
 ## 📦 Submission Format
