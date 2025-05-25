@@ -6,9 +6,6 @@ Team Members: Virendra Badgotya(Solo)
 Leaderboard Rank: 52
 
 """
-
-# postprocessing.py
-
 import os
 import torch
 import pandas as pd
