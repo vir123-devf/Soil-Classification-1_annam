@@ -1,6 +1,7 @@
-python
-kaggle
-scikit-learn
-pandas
-numpy
-matplotlib
+torch>=2.0
+torchvision>=0.15
+pandas>=1.5
+numpy>=1.23
+scikit-learn>=1.1
+Pillow>=9.0
+tqdm>=4.64
