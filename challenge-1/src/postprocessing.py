@@ -42,3 +42,7 @@ def save_submission(image_ids, labels, output_file='submission.csv'):
     submission_df.to_csv(output_file, index=False)
     print(f"[INFO] Submission saved to {output_file}")
 
+def postprocessing():
+    print("This is the file for postprocessing")
+  return 0
+
