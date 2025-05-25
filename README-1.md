@@ -47,7 +47,7 @@ soil_classification-2025/
 * **Loss Function**: CrossEntropyLoss
 * **Optimizer**: Adam (`lr=1e-4`)
 * **Evaluation**: F1-score (per class and minimum)
-
+<img src="images/soil.jpg" alt="Soil Image" width="300"/>
 ---
 
 ## 📊 Performance
