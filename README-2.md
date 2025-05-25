@@ -1,5 +1,5 @@
+#  Soil Classification Hackathon Challenge 2 - IIT Ropar | Annam.ai
 
-#  Soil Image Classification Challenge- 2
 
 This repository contains my solution to the **Soil Image Classification Challenge 2** organized by **Annam.ai at IIT Ropar**. The goal was to classify whether an image is of soil or not using machine learning and computer vision techniques.
 
