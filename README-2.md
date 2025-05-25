@@ -111,8 +111,9 @@ pip install torch torchvision scikit-learn pandas tqdm pillow
 ## 🧑‍💻 Author
 
 **Virendra Badgotya**
-AI/ML Enthusiast | B.Tech @ SVNIT
-🔗 [LinkedIn](https://www.linkedin.com/in/virendra-badgotya/) | [GitHub](https://github.com/vir123-devf)
+* AI/ML Enthusiast | B.Tech @ SVNIT
+  
+  🔗 [LinkedIn](https://www.linkedin.com/in/virendra-badgotya/) | [GitHub](https://github.com/vir123-devf)
 
 ---
 
