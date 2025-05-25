@@ -1,1 +1,1 @@
-# Created separate readme for challenge 1 and 2
+# Created separate Readme for challenge 1 and 2
