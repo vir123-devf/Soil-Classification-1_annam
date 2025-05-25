@@ -117,9 +117,10 @@ img_def.jpg,Clay soil
 
 ---
 
-## 📬 Contact
+## 🧑‍💻 Author
 
-For questions or suggestions, connect with me on [LinkedIn](https://www.linkedin.com/in/virendra-badgotya/) or visit my [GitHub Profile](https://github.com/vir123-devf).
+**Virendra Badgotya**
+AI/ML Enthusiast | B.Tech @ SVNIT
+🔗 [LinkedIn](https://www.linkedin.com/in/virendra-badgotya/) | [GitHub](https://github.com/vir123-devf)
 
 ---
-
