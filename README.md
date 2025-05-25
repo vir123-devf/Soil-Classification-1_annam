@@ -1,5 +1,4 @@
 #  Soil Classification Hackathon Challenge 1 - IIT Ropar | Annam.ai
----
 
 This repository contains the solution for the **Soil Image Classification Challenge** hosted by **IIT Ropar** in collaboration with **Annam.ai**. The goal of the challenge is to develop a machine learning model that classifies soil images into one of four types: **Alluvial soil**, **Black Soil**, **Clay soil**, and **Red soil**.
 
