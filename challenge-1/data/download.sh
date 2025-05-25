@@ -1,11 +1,11 @@
 #!/bin/bash
 
-# Dataset or competition slug
-KAGGLE_DATASET="annam-ai/soilclassification"
+# === Example: Download competition data ===
+KAGGLE_COMPETITION="soil-classification"
 TARGET_DIR="./data"
 
-echo "Downloading dataset: $KAGGLE_DATASET"
+echo "Downloading competition data: $KAGGLE_COMPETITION"
 mkdir -p "$TARGET_DIR"
-kaggle datasets download -d "$KAGGLE_DATASET" -p "$TARGET_DIR" --unzip
+kaggle competitions download -c "$KAGGLE_COMPETITION" -p "$TARGET_DIR" --unzip
 
 echo "Download complete. Files saved to $TARGET_DIR"
