@@ -127,4 +127,6 @@ img_def.jpg,Clay soil
 🔗 [LinkedIn](https://www.linkedin.com/in/virendra-badgotya/) | [GitHub](https://github.com/vir123-devf)
 
 ---
-                                                                                        🌱 Deep Learning Digs Deep!
+<p align="center">
+  <strong>🌱 Deep Learning Digs Deep!</strong>
+</p> 
